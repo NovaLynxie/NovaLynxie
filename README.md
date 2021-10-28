@@ -1,5 +1,12 @@
 ### Hi there 👋
 *Currently under construction / drafting. Please check back later!*
+- 🔭 I’m currently working on CoraBot a Discord.JS powered bot on NodeJS
+- 📫 How to reach me: 
+	- Discord: NovaLynxie#9765
+	- Twitter: @novalynxie
+	- Twitch: novalynxie
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: (TBA)
 <!--
 **NovaLynxie/NovaLynxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
