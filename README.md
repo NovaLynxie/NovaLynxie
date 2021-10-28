@@ -17,7 +17,7 @@ Sometimes I do find it difficult to start a conversation when meeting new peeps 
 I occasionally work on some small coding projects here and there, with experience in Javascript and some Python. Though am mostly into Javascript, especially NodeJS apps.
 One such project is CoraBot, my own personal Discord.JS bot for my Discord server which runs on NodeJS. It was made when I decided to mess around with code and got interest in Javascript so is mostly a hobby project.
 
-I also have my own personal site which is built using ExpressJS and the Pug templating engine. I don't usually update this much but it has more details about myself.
+I also have my own personal site which is built using ExpressJS and the Pug templating engine. I don't usually update this much but it has more details about myself. Go check it out [here](https://lynxies-website.novalynxie.repl.co/)!
 
 
 <!--
