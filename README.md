@@ -1,4 +1,3 @@
-*Currently under construction / drafting. Please check back later!*
 ## About Myself 👋
 
 ### Brief Details
@@ -21,6 +20,8 @@ I also have my own personal site which is built using ExpressJS and the Pug temp
 
 
 <!--
+Temporary Message: *Currently under construction / drafting. Please check back later!*
+
 **NovaLynxie/NovaLynxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
