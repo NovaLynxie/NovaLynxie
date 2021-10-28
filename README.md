@@ -1,7 +1,7 @@
 *Currently under construction / drafting. Please check back later!*
-### About Myself 👋
+## About Myself 👋
 
-Brief Details
+### Brief Details
 - 🔭 I’m currently working on CoraBot a Discord.JS powered bot on NodeJS
 - 📫 How to reach me: 
 	- Discord: NovaLynxie#9765
