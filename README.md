@@ -7,7 +7,6 @@
 	- Twitter: @novalynxie
 	- Twitch: novalynxie
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: (TBA)
 
 My name is Nova P. Lynxie, but you can call me 'Nova'.
 I'm quite a very cheerful, carefree, optimistic and at times fairly shy individual. 
