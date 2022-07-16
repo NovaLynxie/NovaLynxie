@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on CoraBot a Discord.JS powered bot on NodeJS
 - 📫 How to reach me: 
 	- Discord: NovaLynxie#9765
-	- Twitter: @novalynxie
-	- Twitch: novalynxie
+	- Twitter: [@novalynxie](https://twitter.com/novalynxie)
+	- Twitch: [novalynxie](https://twitch.tv/novalynxie)
 - 😄 Pronouns: He, Him
 
 My name is Nova P. Lynxie, but you can call me 'Nova'.
