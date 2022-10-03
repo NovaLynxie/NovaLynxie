@@ -1,0 +1,24 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5a83ac;
+}
+.navitem {
+    float: left;
+}
+.navlink {
+    display: block;
+    padding: 14px 16px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+.navlink:hover {
+    background-color: #5372aa;
+}
