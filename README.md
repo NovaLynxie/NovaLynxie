@@ -18,8 +18,7 @@ One such project is CoraBot, my own personal Discord.JS bot for my Discord serve
 Some programming languages I have used are Python, NodeJS (Javascript runtime) and a bit of ExpressJS.  
 Though I have tried using Rust, Lua and some others, I don't really use them as much.
 
-I also have my own personal site which is built using ExpressJS and the Pug templating engine. I don't usually update this much but it has more details about myself. Go check it out [here](https://lynxies-website.novalynxie.repl.co/)!
-
+I also have my own personal site which is built using ExpressJS and the Pug templating engine. I don't usually update this much but it has more details about myself. Go check it out [here](https://lynxies-website.novalynxie.repl.co/)! I also now have a github page which you can view [here](https://novalynxie.github.io/NovaLynxie/)!
 
 <!--
 Temporary Message: *Currently under construction / drafting. Please check back later!*
