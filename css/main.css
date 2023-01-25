@@ -15,6 +15,7 @@ body {
 }
 footer {
     background-color: #617b99;
+    padding: 14px 16px;
 }
 .navbar {
     list-style-type: none;
