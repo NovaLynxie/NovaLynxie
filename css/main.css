@@ -1,0 +1,34 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    /* Dynamically resize site page to viewport size.*/
+    min-height: 100vh;
+    max-width: 100vw;
+    /* Background image and alignment*/
+    /*background-image: url("../images/sunset-village.jpg");*/
+    background-image: linear-gradient(#36294d, #724012);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #5a83ac;
+}
+.navitem {
+    float: left;
+}
+.navlink {
+    display: block;
+    padding: 14px 16px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+}
+.navlink:hover {
+    background-color: #5372aa;
+}
