@@ -6,7 +6,7 @@
 	- Discord: NovaLynxie#9765
 	- Twitter: [@novalynxie](https://twitter.com/novalynxie)
 	- Twitch: [novalynxie](https://twitch.tv/novalynxie)
-- 😄 Pronouns: He, Him
+- 😄 Pronouns: They, Them
 
 My name is Nova P. Lynxie, but you can call me 'Nova'.
 I'm quite a very cheerful, carefree, optimistic and at times fairly shy individual. 
