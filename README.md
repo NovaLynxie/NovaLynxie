@@ -1,7 +1,7 @@
 ## About Myself 👋
 
 ### Brief Details
-- 🔭 I’m currently working on CoraBot a Discord.JS powered bot on NodeJS
+- 🔭 I’m currently working on Wilderwoods, a fantasy and medieval-themed modpack for Minecraft 1.20.1! 
 - 📫 How to reach me: 
 	- Discord: NovaLynxie#9765
 - 😄 Pronouns: They, Them
