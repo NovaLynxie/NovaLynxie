@@ -1,7 +1,8 @@
 ## About Myself 👋
 
 ### Brief Details
-- 🔭 I’m currently working on Wilderwoods, a fantasy and medieval-themed modpack for Minecraft 1.20.1! 
+- 🔭 I’m currently working on Wilderwoods, a fantasy and medieval-themed modpack for Minecraft 1.20.1!
+- Developed a few discord.js bots, though have put these on idle till I can refocus code development on them. Critical bugfix updates only for the time being.
 - 📫 How to reach me: 
 	- Discord: NovaLynxie#9765
 - 😄 Pronouns: They, Them
