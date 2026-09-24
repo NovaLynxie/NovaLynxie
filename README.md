@@ -3,7 +3,7 @@
 
 ## Coming soon (WIP)
 
-Very work in progress! It may not be actively updated. 
+Very work in progress! It may not be actively updated.
 <!--
 **NovaLynxie/NovaLynxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
