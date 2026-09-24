@@ -1,5 +1,5 @@
 ### Coming soon!
-In the meantime, check my express.js powered site on [replit](https://lynxies-website.novalynxie.repl.co) 
+Very work in progress! It may not be actively updated. 
 <!--
 **NovaLynxie/NovaLynxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
